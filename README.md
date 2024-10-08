@@ -47,13 +47,4 @@ Copy
 - Generate QR codes for specific menu items or the full menu
 - Test the QR code scanning functionality
 
-## Project Structure
-qr_menu_project/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── static/
-│   └── styles.css
-└── templates/
-└── menu.html
+
