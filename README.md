@@ -21,7 +21,7 @@ This project is a Python-based full-stack web application that combines a QR cod
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/jshi98/qr-menu-project.git
+git clone https://github.com/jshi98/qr_menu_project.git
 cd qr-menu-project
 Copy
 2. Create a virtual environment:
